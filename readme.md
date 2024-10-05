@@ -22,7 +22,7 @@ The data is available in the `manufacturing_parts` table which has the following
 - `height`: the height of the item made
 - `operator`: the operating machine
 
-##Results
+## Results
 ![Evaluate a manufacturing process](https://github.com/Sobhan-h/SQL-Projects/blob/master/Result%20(Evaluate%20a%20manufacuting%20process).png)
 
 <br>  <!-- Add another line break for spacing -->
