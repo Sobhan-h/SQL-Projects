@@ -22,6 +22,9 @@ The data is available in the `manufacturing_parts` table which has the following
 - `height`: the height of the item made
 - `operator`: the operating machine
 
+##Results
+![Evaluate a manufacturing process](https://github.com/Sobhan-h/SQL-Projects/blob/master/Result%20(Evaluate%20a%20manufacuting%20process).png)
+
 <br>  <!-- Add another line break for spacing -->
 <br>  <!-- Add another line break for spacing -->
 
@@ -62,3 +65,7 @@ You have been given access to their `unicorns` database, which contains the foll
 | `city`         | The city where the company is headquartered.      |
 | `country`      | The country where the company is headquartered.   |
 | `continent`    | The continent where the company is headquartered. |
+
+
+## Results
+![Analazying Unicorn Companies](https://github.com/Sobhan-h/SQL-Projects/blob/master/Result%20(Analyzing%20Unicorn%20Companies).png)
