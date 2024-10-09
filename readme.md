@@ -70,7 +70,8 @@ You have been given access to their `unicorns` database, which contains the foll
 ## Results
 ![Analazying Unicorn Companies](https://github.com/Sobhan-h/SQL-Projects/blob/master/Result%20(Analyzing%20Unicorn%20Companies).png)
 
-## Impact Analysis of GoodThought NGO Initiatives
+## Impact Analysis of GoodThought NGO Initiatives ([advanced SQL project from datacamp.com](https://app.datacamp.com/learn/projects/2190))
+
 GoodThought NGO has been a catalyst for positive change, focusing its efforts on education, healthcare, and sustainable development to make a significant difference in communities worldwide. With this mission, GoodThought has orchestrated an array of assignments aimed at uplifting underprivileged populations and fostering long-term growth.
 
 This project offers a hands-on opportunity to explore how data-driven insights can direct and enhance these humanitarian efforts. In this project, you'll engage with the GoodThought PostgreSQL database, which encapsulates detailed records of assignments, funding, impacts, and donor activities from 2010 to 2023. This comprehensive dataset includes:
