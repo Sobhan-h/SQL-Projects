@@ -84,7 +84,11 @@ Refer to the below ERD diagram for a visual representation of the relationships 
 
 ## Results
 1.Highest donation assignments
+
 ![Highest donation assignments](https://github.com/Sobhan-h/SQL-Projects/blob/master/Results%20(highest%20donation%20assignments).png)
+
 <br>  <!-- Add another line break for spacing -->
+
 2.top regional impact score
-![top regional impact score](
+
+![top regional impact score](https://github.com/Sobhan-h/SQL-Projects/blob/master/Results%20(top%20regional%20impact%20assignments).png)
