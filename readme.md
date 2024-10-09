@@ -80,4 +80,8 @@ This project offers a hands-on opportunity to explore how data-driven insights c
 - **`Donors`:** Information on individuals and organizations that fund GoodThought’s projects, including donor types.
 
 Refer to the below ERD diagram for a visual representation of the relationships between these data tables:
-<img src="erd.png" alt="ERD" width="50%" height="50%">
+![Impact Analysis of GoodThought NGO Initiatives](https://github.com/Sobhan-h/SQL-Projects/blob/master/Tables%20(Impact%20Analysis%20of%20GoodThought%20NGO%20Initiatives).png)
+
+## Results
+1.Highest donation assignments
+![Highest donation assignments](
